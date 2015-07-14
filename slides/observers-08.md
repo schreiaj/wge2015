@@ -3,4 +3,4 @@
 - (No, it's not)
 - Be mindful of unexpected side effects
 - Ember 2 allows opt in 2 way binding
-  - Means you don't screaming about your changes
+  - Means you aren't screaming about your changes
