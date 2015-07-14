@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Wicked Good Ember",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "schreiaj",
+    "githubRepository": "wge2015"
+  }
+}
