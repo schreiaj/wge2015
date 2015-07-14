@@ -1,4 +1,4 @@
-###Focus on the element that's being changed ("output")
+###Focus on the element that's being changed ("outlet")
 <pre><code class="javascript">
 Ember.Route.reopen({
   focus(morph) {

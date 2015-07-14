@@ -1,2 +1,2 @@
-#Nathan Hammond's proposed solution:
+##Nathan Hammond's proposed solution:
 ##Outlet focusing!
