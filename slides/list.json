@@ -27,10 +27,27 @@
     "observers-09.md",
     "accessibility01.md",
     "accessibility02.md",
-    ["accessibility03.md","accessibility03-02.md","accessibility03-03.md","accessibility03-04.md"],
-    ["accessibility04.md","accessibility04-02.md","accessibility04-03.md"],
-    ["accessibility05.md","accessibility05-02.md","accessibility05-03.md"],
-    ["accessibility06.md","accessibility06-02.md","accessibility06-03.md"],
+    [
+        "accessibility03.md",
+        "accessibility03-02.md",
+        "accessibility03-03.md",
+        "accessibility03-04.md"
+    ],
+    [
+        "accessibility04.md",
+        "accessibility04-02.md",
+        "accessibility04-03.md"
+    ],
+    [
+        "accessibility05.md",
+        "accessibility05-02.md",
+        "accessibility05-03.md"
+    ],
+    [
+        "accessibility06.md",
+        "accessibility06-02.md",
+        "accessibility06-03.md"
+    ],
     "accessibility07.md",
     "offline-01.md",
     "offline-02.md",
@@ -40,5 +57,6 @@
     "offline-06.md",
     "offline-07.md",
     "offline-08.md",
-    "offline-09.md"
+    "offline-09.md",
+    "end.md"
 ]
