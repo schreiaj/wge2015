@@ -1,10 +1,7 @@
 
-# Wicked Good Ember
+# Wicked Good Ember (2015)
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+- Evana Gizzi
+- Cristen Jones
+- Michael O'Keefe
+- Andrew Schreiber
